@@ -1,4 +1,17 @@
 body {
     background-color: lightgray;
+    background-image: url("tech2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+    font-size: 1.4em;
+    font-weight: bold;
+    color:white;
+    /*text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;*/
+    text-shadow: 0 0 10px rgba(255,255,255,1);
 }
 
+#container {
+    margin: 0 auto;
+    text-align: center;
+}
